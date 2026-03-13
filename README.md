@@ -6,3 +6,7 @@ An interactive device that displays the currently playing Spotify track and allo
 - Physical buttons for playback control
 - WiFi connectivity
 - Compact desk device
+
+## Status 
+Project planning and design phase.
+Part of Hack Club Stasis hardware event.
