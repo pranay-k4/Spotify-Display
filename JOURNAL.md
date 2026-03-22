@@ -28,10 +28,6 @@ Time spent ~ 2 hours
 -  Learning how to use ESP32 
 - Learning how to work with display like tft display
 
-![image](https://stasis.hackclub-assets.com/images/1773479757677-6fx83d.png)
-![image](https://stasis.hackclub-assets.com/images/1773479760988-3tuxqf.png)
-![image](https://stasis.hackclub-assets.com/images/1773479719583-97y3m5.png)
-
 # 3/13/2026 10 AM - CAD Design for the prject
 
 _Time spent: 2.5h_
@@ -50,9 +46,6 @@ _Time spent: 2.5h_
 - Completing the CAD design
 - Figuring Out how to use ESP32
 - Adding the BOM
-
-![image](https://stasis.hackclub-assets.com/images/1773398215204-25lc5j.png)
-![image](https://stasis.hackclub-assets.com/images/1773398217834-b4prdj.png)
 
 # 3/13/2026 10 AM - Made a Github and got started with the tutorials
 
@@ -78,6 +71,3 @@ Time spent ~ 40 mins
 - How to Use Onshape
 - Building the first CAD
 - Figuring out how to work with esp32
-
-![image](https://stasis.hackclub-assets.com/images/1773397738288-7hi06q.png)
-![image](https://stasis.hackclub-assets.com/images/1773397813934-146csa.png)
